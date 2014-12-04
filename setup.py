@@ -25,7 +25,7 @@ setup(name='django-crowdsourcing',
       packages=['crowdsourcing', 'crowdsourcing.templatetags'],
       license='MIT',
       install_requires=[
-          "flickapi",
+          "flickrapi",
           "geopy",
           "unicodecsv",
           "django-positions",
